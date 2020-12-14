@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 [![moshang's github stats](https://github-readme-stats.vercel.app/api?username=moshang-xc)](https://github.com/moshang-xc/ 'Moshang的信息')
 
-<img src="https://badges.toozhao.com/badges/01ESFMPQTDJC8WMVTC2249DSNZ/green.svg" width=400/>
