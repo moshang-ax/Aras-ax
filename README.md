@@ -1,6 +1,6 @@
 ### Hi/你好 😜😜😜
 
-这里是陌上的github 😎
+这里是Arax-ax的github 😎
 
 <!--
 **FairyWorld/FairyWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
