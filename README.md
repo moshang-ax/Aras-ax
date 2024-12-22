@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![moshang's github stats](https://github-readme-stats.vercel.app/api?username=Aras-ax)](https://github.com/moshang-ax/ 'moshang-ax的信息')
+[![moshang's github stats](https://github-readme-stats.vercel.app/api?username=moshang-ax)](https://github.com/moshang-ax/ 'moshang-ax的信息')
 
